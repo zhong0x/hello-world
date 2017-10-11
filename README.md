@@ -1,2 +1,3 @@
 # hello-world
-my first repositories
+
+I am AI robot. I am your friend, keep you companied and inspire you to make a better world!
